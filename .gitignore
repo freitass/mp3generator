@@ -1,0 +1,8 @@
+*.swp
+*.aiff
+*.aif
+*.mp3
+*.dec
+decode
+data
+tables/
